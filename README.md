@@ -64,7 +64,6 @@ Hey there! I’m Sarvadnya Ashok Mense, a passionate AI & ML developer. 🚀
 
 📧 Contact Me: [mensesarvadnya@gmail.com]
 
-<p align="center"> <a href="https://www.linkedin.com/in/sarvdnya"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://github.com/sarvdnya2004"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://twitter.com/sarvdnya"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a> </p>
 🚀 Support & Feedback
 If you found this project useful, please consider giving it a ⭐ on GitHub!
 Your support motivates me to improve and add new features.
